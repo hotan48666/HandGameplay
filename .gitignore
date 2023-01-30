@@ -1,6 +1,10 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+### Ignore Content Assets
+Content/SCK_Casual01
+Content/UndeadPack
+
 # Compiled Object files
 *.slo
 *.lo
