@@ -6,7 +6,9 @@
 Content/SCK_Casual01
 Content/UndeadPack
 Content/BossAIToolkit
-
+Content/ThirdPerson
+Content/ThirdPersonBP
+Content/Mannequin
 
 # Compiled Object files
 *.slo
